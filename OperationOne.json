@@ -275,10 +275,8 @@
 					9118270350
 				],
 				"Electrified": "9116276288"
-			},
-			"VEIL9": {
-				"Equip": "9114659833"
 			}
+			
 		},
 		"Adrenal Surge": {
 			"Hit": "2782131222",
@@ -350,6 +348,9 @@
 			"Punch": "9120798159",
 			"Rustling": "9117660383"
 		},
+		"VEIL9": {
+			"Equip": "9114659833"
+			},
 		"Stalker Belt": {
 			"Stealth": "74593175411900"
 		},
@@ -772,6 +773,10 @@
 				"Wooden Barricade": {
 					"Silhouette": "120240125082624",
 					"Photo": "93421707772928"
+				},
+				"Stalker Belt":{
+					"Silhouette":"92637335086972",
+					"Photo":"77278704065128"
 				},
 				"Thermal Goggles": {
 					"Silhouette": "75860557025813",
